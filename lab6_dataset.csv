@@ -1,0 +1,1001 @@
+name,second_name,salary,city,age,vacation_prefer,transport_prefer,target
+Kirill,Sadyrov(a),54671,London,51,Conference,plane,New York
+Osmonkul,Kadyrakhunov(a),40802,Rome,54,Adventure,train,London
+Nurdin,Abdyrakmanov(a),51192,Bishkek,52,Adventure,auto,New York
+Askat,Tashiev(a),56673,Rome,33,Adventure,plane,Paris
+Dzhamilya,Tashiev(a),56130,Bishkek,46,Skiing,auto,Dubai
+Askat,Dzhakshylykov(a),43545,Milan,37,Adventure,train,New York
+Karina,Maratov(a),54006,Potsdam,45,Adventure,auto,Dubai
+Diana,Dzhumashev(a),50863,Los Angeles,31,Skiing,plane,Dubai
+Nuraiym,Kadyrakhunov(a),39721,Miami,34,Cultural,plane,Moscow
+Askat,Pratov(a),35272,New York,56,Competition,train,Moscow
+Nurdin,Asankadyrov(a),57540,Paris,38,Shopping,plane,London
+Meder,Abdyrakmanov(a),60689,Milan,49,Cultural,ship,London
+Karina,Asankadyrov(a),48124,Moscow,48,Competition,plane,New York
+Osmonkul,Akaev(a),56622,Hamburg,45,Conference,train,Dubai
+Diana,Erkinbekov(a),67930,Bishkek,33,Conference,plane,New York
+Rayana,Kadyrov(a),61449,Milan,37,Cultural,plane,New York
+Altynai,Dzhumashev(a),46653,Naryn,48,Shopping,train,Dubai
+Osmonkul,Abdyrakmanov(a),46500,Paris,37,Beach holiday,auto,Paris
+Kirill,Maratov(a),53937,London,63,Beach holiday,ship,Dubai
+Jusup,Saparov(a),30968,Berlin,65,Shopping,plane,Moscow
+Meder,Erkinbekov(a),51478,Moscow,58,Shopping,plane,Dubai
+Ernaz,Abdyrakmanov(a),39913,Paris,31,Skiing,ship,Moscow
+Nuraiym,Stamov(a),51181,Miami,37,Skiing,auto,Moscow
+Bayastan,Pratov(a),43070,Bayern,32,Competition,ship,Dubai
+Dzhumagul,Stamov(a),32594,London,41,Shopping,train,London
+Gulmira,Dzhakshylykov(a),44496,Moscow,37,Skiing,auto,Dubai
+Azilya,Maratov(a),65503,New York,30,Skiing,auto,Moscow
+Timur,Erkinbekov(a),49391,Saint-Peterburg,55,Shopping,train,Dubai
+Aktan,Adylgaziev(a),46832,Los Angeles,54,Conference,ship,Paris
+Bayastan,Dzhakshylykov(a),47123,Los Angeles,31,Cultural,auto,Dubai
+Dzhumagul,Saparov(a),49647,Milan,56,Skiing,ship,London
+Dzhazgul,Kadyrakhunov(a),52466,Miami,33,Conference,plane,London
+Askat,Erkinbekov(a),55887,London,54,Skiing,auto,Moscow
+Altai,Akaev(a),58711,Paris,52,Beach holiday,train,New York
+Azilya,Tashiev(a),58208,Saint-Peterburg,65,Adventure,ship,Dubai
+Karina,Maratov(a),44275,Rome,35,Conference,train,Paris
+Bayastan,Akaev(a),56457,Los Angeles,32,Conference,train,Paris
+Akyl,Asankadyrov(a),46002,Potsdam,37,Adventure,plane,Paris
+Osmonkul,Pratov(a),32546,Napoli,56,Cultural,plane,London
+Gulmira,Erkinbekov(a),46915,Los Angeles,38,Beach holiday,plane,Paris
+Askat,Asankadyrov(a),49622,Moscow,59,Conference,train,Dubai
+Erkinbek,Akaev(a),50670,Miami,39,Conference,plane,Paris
+Erkinbek,Maratov(a),56160,Rome,51,Shopping,train,Paris
+Meder,Erkinbekov(a),66199,Los Angeles,45,Cultural,ship,New York
+Azilya,Sadyrov(a),60332,Rome,54,Skiing,train,Paris
+Karina,Dzhakshylykov(a),35206,New York,58,Beach holiday,auto,New York
+Gulmira,Akaev(a),35664,Saint-Peterburg,37,Cultural,train,London
+Erkinbek,Maratov(a),64054,Los Angeles,40,Competition,plane,London
+Jusup,Pratov(a),35726,Hamburg,54,Adventure,plane,New York
+Aktan,Dzhakshylykov(a),63679,Potsdam,53,Beach holiday,plane,Moscow
+Kirill,Sadyrov(a),30312,Hamburg,41,Beach holiday,train,Paris
+Erkinbek,Tashiev(a),37179,Berlin,65,Cultural,plane,Moscow
+Nurdin,Tashiev(a),65588,Los Angeles,49,Competition,auto,Dubai
+Ernaz,Abdyrakmanov(a),48543,London,33,Beach holiday,plane,New York
+Karina,Abdyrakmanov(a),60597,Milan,51,Skiing,auto,Dubai
+Gulmira,Maratov(a),48362,Paris,45,Beach holiday,ship,London
+Akyl,Tashiev(a),57170,Hamburg,30,Shopping,ship,Dubai
+Karina,Erkinbekov(a),34587,Potsdam,60,Cultural,auto,Paris
+Nurdin,Kadyrakhunov(a),41961,Los Angeles,62,Competition,auto,Moscow
+Kirill,Stamov(a),54525,Hamburg,56,Adventure,train,London
+Erkinbek,Pratov(a),57132,Hamburg,35,Cultural,plane,New York
+Azilya,Saparov(a),53381,Bishkek,49,Skiing,plane,Dubai
+Timur,Maratov(a),31330,Naryn,48,Beach holiday,auto,New York
+Gulmira,Kadyrov(a),55861,Saint-Peterburg,55,Cultural,train,London
+Erkinbek,Tashiev(a),57004,Potsdam,46,Adventure,ship,London
+Diana,Erkinbekov(a),55679,Miami,33,Shopping,ship,Paris
+Altynai,Kadyrakhunov(a),60045,Rome,38,Competition,train,New York
+Dzhumagul,Asankadyrov(a),37290,Bishkek,51,Conference,plane,Dubai
+Diana,Asankadyrov(a),35267,Miami,60,Conference,train,New York
+Meder,Dzhakshylykov(a),37160,Milan,61,Beach holiday,auto,Dubai
+Temirlan,Kadyrakhunov(a),35711,Napoli,47,Shopping,plane,Moscow
+Dzhumagul,Kadyrov(a),57899,Moscow,62,Shopping,auto,Paris
+Meder,Tashiev(a),69695,Saint-Peterburg,55,Competition,train,Paris
+Erkinbek,Dzhakshylykov(a),47383,New York,62,Cultural,plane,London
+Akyl,Tashiev(a),48920,Bayern,55,Shopping,ship,Paris
+Altynai,Dzhumashev(a),53042,Moscow,57,Beach holiday,train,London
+Ernaz,Abdyrakmanov(a),37105,New York,42,Conference,ship,Dubai
+Altai,Akaev(a),63485,London,57,Beach holiday,ship,London
+Temirlan,Sadyrov(a),60717,London,47,Competition,auto,Dubai
+Dzhazgul,Bakytov(a),49186,Los Angeles,46,Adventure,auto,Paris
+Gulmira,Adylgaziev(a),58170,Miami,53,Skiing,auto,Moscow
+Rayana,Abdyrakmanov(a),58259,Saint-Peterburg,44,Adventure,ship,London
+Meder,Maratov(a),37953,Los Angeles,35,Skiing,ship,Paris
+Timur,Kadyrov(a),48242,Milan,62,Cultural,auto,Dubai
+Timur,Maratov(a),42303,Berlin,48,Beach holiday,auto,London
+Dzhazgul,Abdyrakmanov(a),48075,Hamburg,64,Skiing,plane,London
+Altynai,Akaev(a),42383,Paris,57,Beach holiday,plane,Dubai
+Diana,Sadyrov(a),45848,Napoli,61,Shopping,auto,Dubai
+Altynai,Kadyrov(a),54717,Los Angeles,50,Beach holiday,plane,Moscow
+Dzhumagul,Saparov(a),62404,Potsdam,39,Skiing,train,Dubai
+Rayana,Stamov(a),35850,Miami,39,Beach holiday,auto,London
+Meder,Pratov(a),59994,Milan,42,Adventure,ship,London
+Ernaz,Asankadyrov(a),55492,Rome,44,Shopping,ship,Dubai
+Bayastan,Abdyrakmanov(a),58173,Los Angeles,63,Cultural,auto,Dubai
+Nurdin,Dzhakshylykov(a),37988,Naryn,44,Conference,auto,London
+Altai,Dzhumashev(a),52562,Moscow,56,Cultural,ship,Moscow
+Altynai,Bakytov(a),68756,Berlin,61,Competition,plane,Moscow
+Dastan,Sadyrov(a),38173,Potsdam,42,Competition,train,New York
+Akyl,Stamov(a),56964,Potsdam,64,Skiing,auto,Moscow
+Meder,Tashiev(a),57210,Bayern,45,Adventure,train,New York
+Osmonkul,Tashiev(a),37807,Paris,62,Conference,plane,Moscow
+Diana,Kadyrov(a),66975,Milan,62,Skiing,plane,New York
+Kirill,Akaev(a),56375,Miami,65,Skiing,plane,London
+Altai,Kadyrakhunov(a),66696,Milan,47,Shopping,train,London
+Nuraiym,Tashiev(a),64879,London,54,Cultural,ship,New York
+Diana,Maratov(a),44664,Bishkek,55,Competition,auto,Dubai
+Dzhumagul,Adylgaziev(a),53867,Napoli,40,Beach holiday,ship,Moscow
+Gulmira,Adylgaziev(a),35009,Rome,30,Conference,auto,Paris
+Dzhumagul,Erkinbekov(a),40815,Rome,37,Skiing,train,New York
+Dzhumagul,Saparov(a),31063,Milan,51,Conference,ship,Moscow
+Meder,Dzhumashev(a),31165,Potsdam,36,Adventure,auto,London
+Nurdin,Stamov(a),54344,Potsdam,30,Competition,auto,Moscow
+Karina,Kadyrov(a),65814,Potsdam,45,Adventure,train,London
+Kirill,Asankadyrov(a),58182,Miami,56,Conference,plane,Dubai
+Aktan,Akaev(a),61785,Saint-Peterburg,46,Conference,train,Paris
+Dastan,Stamov(a),44158,Hamburg,45,Conference,ship,Dubai
+Askat,Bakytov(a),54291,Miami,57,Skiing,auto,Moscow
+Gulmira,Maratov(a),42223,Naryn,63,Conference,plane,New York
+Nurdin,Tashiev(a),60868,Rome,55,Cultural,auto,Paris
+Kirill,Maratov(a),54825,London,45,Cultural,train,Moscow
+Altynai,Maratov(a),43379,Hamburg,64,Shopping,train,New York
+Nazira,Erkinbekov(a),64451,Potsdam,45,Adventure,plane,Moscow
+Rayana,Sadyrov(a),52441,Saint-Peterburg,60,Adventure,auto,Dubai
+Dastan,Erkinbekov(a),67958,Potsdam,52,Shopping,auto,Paris
+Bayastan,Bakytov(a),53348,Naryn,31,Adventure,auto,Moscow
+Altai,Asankadyrov(a),35105,Saint-Peterburg,31,Cultural,plane,Dubai
+Nurdin,Abdyrakmanov(a),46348,Saint-Peterburg,61,Competition,plane,New York
+Karina,Pratov(a),63870,New York,55,Shopping,auto,London
+Ernaz,Pratov(a),59892,Napoli,35,Shopping,ship,Paris
+Altynai,Erkinbekov(a),30581,Milan,44,Competition,plane,New York
+Osmonkul,Erkinbekov(a),31361,Bishkek,51,Competition,ship,Dubai
+Diana,Abdyrakmanov(a),53118,Miami,63,Conference,auto,New York
+Karina,Akaev(a),62259,Paris,42,Adventure,plane,Dubai
+Altai,Adylgaziev(a),42592,Milan,61,Cultural,plane,London
+Erkinbek,Asankadyrov(a),33346,Miami,46,Competition,ship,Paris
+Nurdin,Akaev(a),46488,Hamburg,30,Competition,plane,New York
+Osmonkul,Dzhumashev(a),68029,Naryn,35,Shopping,auto,London
+Dzhamilya,Sadyrov(a),53156,Napoli,51,Cultural,train,New York
+Nazira,Abdyrakmanov(a),48928,Rome,61,Skiing,auto,Moscow
+Karina,Maratov(a),35146,Naryn,56,Cultural,auto,New York
+Karina,Pratov(a),30915,Miami,53,Beach holiday,auto,Dubai
+Diana,Kadyrakhunov(a),42175,Potsdam,52,Cultural,plane,Paris
+Osmonkul,Pratov(a),64556,Bishkek,64,Cultural,train,Dubai
+Osmonkul,Erkinbekov(a),66597,Berlin,45,Competition,ship,Moscow
+Ernaz,Asankadyrov(a),31464,New York,52,Adventure,ship,Paris
+Altynai,Kadyrov(a),57053,Hamburg,64,Conference,plane,Moscow
+Bayastan,Maratov(a),65545,Bishkek,55,Skiing,ship,Dubai
+Altynai,Abdyrakmanov(a),65769,Rome,40,Adventure,ship,London
+Nazira,Asankadyrov(a),31258,Napoli,35,Beach holiday,train,Moscow
+Azilya,Dzhakshylykov(a),30890,Potsdam,43,Conference,ship,London
+Jusup,Bakytov(a),68135,Moscow,64,Adventure,ship,New York
+Meder,Dzhakshylykov(a),67166,Miami,46,Conference,auto,Dubai
+Ernaz,Dzhakshylykov(a),31509,Berlin,32,Cultural,plane,New York
+Dzhamilya,Adylgaziev(a),57167,Paris,37,Adventure,train,Dubai
+Temirlan,Maratov(a),47175,Paris,43,Conference,train,Paris
+Aktan,Saparov(a),50598,Moscow,59,Adventure,ship,London
+Dastan,Akaev(a),61601,London,49,Beach holiday,ship,Dubai
+Bayastan,Erkinbekov(a),44720,Hamburg,33,Conference,auto,London
+Nuraiym,Sadyrov(a),60270,Los Angeles,36,Shopping,ship,Paris
+Dzhamilya,Sadyrov(a),33782,Paris,48,Competition,plane,Dubai
+Kirill,Akaev(a),67877,Saint-Peterburg,43,Competition,ship,Moscow
+Ernaz,Asankadyrov(a),50265,Paris,44,Beach holiday,train,Paris
+Nurdin,Akaev(a),46450,Saint-Peterburg,48,Competition,ship,New York
+Azilya,Akaev(a),53657,Berlin,37,Conference,ship,Paris
+Dzhumagul,Pratov(a),33343,Rome,33,Skiing,train,Paris
+Diana,Kadyrakhunov(a),39445,Bishkek,62,Skiing,train,Paris
+Meder,Akaev(a),39670,Rome,36,Skiing,ship,Dubai
+Altynai,Akaev(a),36652,Los Angeles,50,Conference,ship,Paris
+Timur,Bakytov(a),47966,Napoli,60,Conference,auto,Moscow
+Dzhamilya,Dzhakshylykov(a),45945,Hamburg,39,Cultural,auto,Moscow
+Erkinbek,Pratov(a),65926,New York,41,Competition,ship,Paris
+Ernaz,Kadyrov(a),48224,Milan,59,Beach holiday,plane,Paris
+Karina,Stamov(a),45422,Bishkek,32,Cultural,plane,New York
+Osmonkul,Abdyrakmanov(a),34430,Saint-Peterburg,30,Competition,train,Dubai
+Dastan,Stamov(a),69373,New York,34,Conference,auto,Paris
+Aktan,Erkinbekov(a),65735,Miami,62,Adventure,plane,Moscow
+Timur,Tashiev(a),62128,Bayern,64,Cultural,ship,London
+Dastan,Erkinbekov(a),33168,Potsdam,57,Shopping,plane,Paris
+Rayana,Saparov(a),55194,Miami,64,Skiing,plane,London
+Erkinbek,Asankadyrov(a),47757,Moscow,42,Competition,auto,Dubai
+Dastan,Asankadyrov(a),61558,London,39,Cultural,auto,Moscow
+Diana,Abdyrakmanov(a),35050,New York,55,Cultural,plane,Dubai
+Azilya,Saparov(a),42325,Moscow,54,Adventure,auto,Paris
+Aktan,Maratov(a),34878,Los Angeles,43,Shopping,ship,Dubai
+Erkinbek,Dzhakshylykov(a),40866,Saint-Peterburg,54,Shopping,auto,Paris
+Nurdin,Sadyrov(a),45042,Berlin,46,Shopping,ship,Dubai
+Nazira,Bakytov(a),52734,London,35,Conference,auto,Dubai
+Aktan,Abdyrakmanov(a),50351,Bayern,42,Shopping,train,London
+Gulmira,Kadyrakhunov(a),53642,London,31,Conference,train,New York
+Osmonkul,Pratov(a),35561,Saint-Peterburg,39,Skiing,train,Dubai
+Dzhumagul,Dzhumashev(a),47603,Moscow,39,Cultural,train,Dubai
+Azilya,Saparov(a),35389,New York,31,Conference,plane,Paris
+Karina,Stamov(a),31397,Milan,33,Shopping,train,London
+Bayastan,Saparov(a),40863,Bishkek,47,Competition,train,London
+Jusup,Saparov(a),37127,Bishkek,40,Conference,auto,Dubai
+Gulmira,Erkinbekov(a),45064,Rome,45,Conference,train,London
+Erkinbek,Tashiev(a),68845,Rome,31,Skiing,auto,London
+Meder,Pratov(a),53744,Rome,65,Competition,ship,New York
+Rayana,Kadyrov(a),66929,Rome,57,Skiing,auto,Dubai
+Gulmira,Stamov(a),44609,Los Angeles,33,Beach holiday,plane,New York
+Nurdin,Dzhakshylykov(a),55644,Milan,32,Beach holiday,ship,Moscow
+Bayastan,Adylgaziev(a),48568,Saint-Peterburg,45,Adventure,auto,Moscow
+Nuraiym,Stamov(a),49216,Los Angeles,33,Cultural,auto,New York
+Bayastan,Saparov(a),30765,Naryn,62,Competition,train,New York
+Nuraiym,Dzhakshylykov(a),51348,London,37,Skiing,train,Paris
+Diana,Asankadyrov(a),63700,Bayern,59,Competition,plane,New York
+Ernaz,Dzhakshylykov(a),32847,Berlin,62,Adventure,auto,London
+Dzhamilya,Saparov(a),48713,Bishkek,49,Skiing,ship,London
+Nazira,Erkinbekov(a),66863,New York,41,Shopping,plane,London
+Jusup,Erkinbekov(a),57963,Paris,58,Conference,plane,Paris
+Askat,Bakytov(a),42224,New York,55,Skiing,ship,Paris
+Timur,Bakytov(a),59517,New York,41,Adventure,auto,Paris
+Erkinbek,Maratov(a),55811,Miami,42,Shopping,train,Dubai
+Dzhumagul,Kadyrov(a),58615,London,35,Skiing,plane,New York
+Aktan,Kadyrakhunov(a),58423,London,58,Conference,ship,Dubai
+Gulmira,Dzhakshylykov(a),61408,Potsdam,38,Cultural,ship,London
+Timur,Dzhumashev(a),43366,Hamburg,52,Conference,train,Moscow
+Dzhamilya,Tashiev(a),54265,Berlin,63,Adventure,auto,Moscow
+Askat,Stamov(a),49257,Potsdam,48,Cultural,ship,New York
+Aktan,Asankadyrov(a),48558,Berlin,54,Adventure,train,London
+Dastan,Kadyrakhunov(a),42311,Naryn,57,Adventure,ship,London
+Temirlan,Kadyrakhunov(a),59796,Bishkek,63,Competition,ship,Paris
+Temirlan,Bakytov(a),68721,Hamburg,58,Skiing,train,Moscow
+Nurdin,Tashiev(a),69854,Saint-Peterburg,61,Skiing,train,Paris
+Altai,Bakytov(a),55315,Saint-Peterburg,52,Adventure,auto,Paris
+Temirlan,Dzhakshylykov(a),43986,Berlin,49,Adventure,ship,New York
+Erkinbek,Saparov(a),56719,Berlin,62,Conference,auto,Paris
+Timur,Adylgaziev(a),54588,Hamburg,41,Beach holiday,auto,Paris
+Rayana,Bakytov(a),64226,Hamburg,65,Conference,auto,London
+Akyl,Kadyrakhunov(a),64423,Hamburg,37,Cultural,train,Dubai
+Askat,Dzhumashev(a),44566,Paris,59,Cultural,auto,London
+Akyl,Kadyrov(a),47313,New York,61,Beach holiday,plane,Moscow
+Aktan,Dzhakshylykov(a),60531,Miami,57,Skiing,plane,Dubai
+Erkinbek,Tashiev(a),53475,Bishkek,45,Beach holiday,ship,Paris
+Dzhazgul,Dzhakshylykov(a),37843,Bishkek,36,Adventure,train,Dubai
+Rayana,Saparov(a),48521,Milan,47,Beach holiday,ship,Paris
+Meder,Tashiev(a),36017,Bayern,63,Competition,train,New York
+Nazira,Stamov(a),43030,Rome,53,Cultural,train,Moscow
+Altynai,Abdyrakmanov(a),47401,Potsdam,40,Beach holiday,train,Paris
+Aktan,Erkinbekov(a),39679,Miami,50,Competition,ship,London
+Akyl,Erkinbekov(a),49508,London,33,Conference,train,Dubai
+Meder,Akaev(a),59930,Los Angeles,35,Beach holiday,train,Dubai
+Aktan,Dzhumashev(a),59404,London,45,Shopping,train,Dubai
+Bayastan,Maratov(a),46045,Bayern,51,Shopping,train,New York
+Nuraiym,Dzhumashev(a),32030,Milan,34,Beach holiday,ship,Paris
+Karina,Pratov(a),66287,Berlin,31,Skiing,auto,London
+Timur,Kadyrov(a),37944,Los Angeles,55,Skiing,auto,New York
+Nazira,Adylgaziev(a),69017,Miami,49,Competition,auto,Moscow
+Nuraiym,Adylgaziev(a),62560,Milan,36,Skiing,train,Paris
+Aktan,Kadyrov(a),55461,Paris,43,Conference,ship,New York
+Bayastan,Kadyrov(a),56352,Moscow,56,Adventure,plane,London
+Aktan,Maratov(a),67633,New York,43,Adventure,plane,New York
+Akyl,Erkinbekov(a),37987,Napoli,53,Adventure,train,New York
+Erkinbek,Abdyrakmanov(a),49074,Potsdam,64,Adventure,ship,Dubai
+Karina,Kadyrov(a),42078,Moscow,38,Adventure,auto,Moscow
+Nurdin,Akaev(a),36481,Paris,52,Beach holiday,auto,Paris
+Nurdin,Sadyrov(a),39003,Saint-Peterburg,44,Competition,train,Paris
+Bayastan,Dzhumashev(a),60608,London,54,Adventure,auto,New York
+Askat,Saparov(a),67217,Paris,63,Beach holiday,plane,Paris
+Ernaz,Akaev(a),33898,Berlin,44,Skiing,auto,Paris
+Bayastan,Tashiev(a),53586,Berlin,59,Competition,train,Moscow
+Erkinbek,Saparov(a),45132,Naryn,45,Competition,auto,Moscow
+Kirill,Erkinbekov(a),46989,Milan,62,Skiing,ship,London
+Nurdin,Dzhakshylykov(a),53956,Hamburg,53,Shopping,plane,New York
+Jusup,Pratov(a),65379,Rome,43,Beach holiday,auto,New York
+Temirlan,Kadyrov(a),63033,Miami,35,Skiing,ship,Dubai
+Bayastan,Saparov(a),56011,Milan,38,Adventure,train,Paris
+Nurdin,Dzhumashev(a),49286,Potsdam,60,Conference,ship,Paris
+Askat,Kadyrakhunov(a),69178,Napoli,32,Skiing,train,New York
+Nazira,Maratov(a),62614,Paris,34,Conference,plane,Moscow
+Askat,Adylgaziev(a),46173,Bayern,56,Cultural,plane,Dubai
+Jusup,Stamov(a),67048,Berlin,45,Beach holiday,auto,Dubai
+Rayana,Asankadyrov(a),62263,Bishkek,47,Shopping,train,Dubai
+Bayastan,Stamov(a),40256,Naryn,64,Adventure,auto,New York
+Dzhazgul,Kadyrakhunov(a),60362,Saint-Peterburg,48,Shopping,plane,London
+Temirlan,Kadyrakhunov(a),65240,Naryn,30,Cultural,train,Moscow
+Temirlan,Bakytov(a),39684,Moscow,62,Conference,plane,Dubai
+Nuraiym,Adylgaziev(a),53140,New York,35,Shopping,train,Dubai
+Ernaz,Stamov(a),61052,Rome,59,Adventure,ship,Moscow
+Diana,Tashiev(a),31892,Paris,56,Beach holiday,plane,New York
+Erkinbek,Pratov(a),67359,Bishkek,65,Competition,plane,London
+Jusup,Akaev(a),44456,Moscow,37,Skiing,plane,Moscow
+Dzhumagul,Dzhumashev(a),54379,Paris,31,Competition,train,London
+Diana,Erkinbekov(a),69027,Berlin,40,Shopping,ship,Dubai
+Meder,Sadyrov(a),62165,Paris,48,Adventure,auto,Paris
+Azilya,Bakytov(a),36750,New York,51,Adventure,train,Dubai
+Dastan,Abdyrakmanov(a),49989,Naryn,58,Skiing,plane,Dubai
+Akyl,Kadyrakhunov(a),59279,Potsdam,34,Beach holiday,plane,London
+Jusup,Tashiev(a),37082,Rome,62,Competition,train,New York
+Gulmira,Tashiev(a),48537,Potsdam,37,Cultural,train,New York
+Dzhamilya,Asankadyrov(a),62548,London,47,Cultural,train,Dubai
+Timur,Asankadyrov(a),40031,Miami,54,Cultural,train,Dubai
+Ernaz,Stamov(a),50731,Hamburg,38,Cultural,train,Paris
+Dastan,Erkinbekov(a),30708,Milan,50,Cultural,train,London
+Bayastan,Saparov(a),58836,Moscow,41,Cultural,train,Moscow
+Azilya,Erkinbekov(a),62750,Rome,43,Competition,train,Dubai
+Aktan,Dzhumashev(a),34314,Bayern,44,Beach holiday,ship,New York
+Kirill,Tashiev(a),30622,Miami,48,Shopping,plane,Moscow
+Altai,Kadyrakhunov(a),32011,Paris,65,Competition,ship,Moscow
+Osmonkul,Kadyrov(a),63196,Miami,55,Beach holiday,plane,Dubai
+Kirill,Asankadyrov(a),53900,Milan,56,Adventure,plane,London
+Jusup,Abdyrakmanov(a),35221,Berlin,59,Adventure,train,Paris
+Nuraiym,Asankadyrov(a),49785,Hamburg,59,Cultural,auto,London
+Gulmira,Stamov(a),38035,Milan,40,Conference,auto,London
+Bayastan,Asankadyrov(a),62980,London,36,Shopping,auto,Paris
+Temirlan,Stamov(a),50522,Los Angeles,39,Skiing,auto,New York
+Akyl,Tashiev(a),41755,Rome,39,Adventure,train,Moscow
+Osmonkul,Kadyrov(a),32427,Berlin,57,Skiing,plane,Dubai
+Askat,Dzhumashev(a),46989,London,61,Adventure,train,London
+Osmonkul,Adylgaziev(a),31145,Bishkek,38,Conference,train,London
+Nurdin,Sadyrov(a),32051,Miami,50,Competition,ship,New York
+Timur,Pratov(a),66010,Bayern,39,Conference,auto,Moscow
+Ernaz,Abdyrakmanov(a),38242,Potsdam,42,Beach holiday,ship,New York
+Osmonkul,Pratov(a),50777,Naryn,33,Beach holiday,plane,Moscow
+Osmonkul,Adylgaziev(a),50463,Bayern,60,Skiing,ship,Moscow
+Bayastan,Kadyrov(a),31156,Miami,49,Adventure,auto,London
+Gulmira,Pratov(a),32733,Miami,44,Competition,plane,New York
+Karina,Tashiev(a),50199,Potsdam,59,Conference,ship,New York
+Altai,Bakytov(a),44242,Hamburg,64,Adventure,auto,Dubai
+Askat,Asankadyrov(a),54196,Berlin,39,Beach holiday,train,New York
+Askat,Kadyrakhunov(a),62262,Los Angeles,42,Skiing,plane,New York
+Bayastan,Maratov(a),67224,Saint-Peterburg,59,Competition,ship,Dubai
+Diana,Stamov(a),33905,Rome,60,Adventure,train,Paris
+Diana,Erkinbekov(a),40875,Saint-Peterburg,30,Beach holiday,ship,New York
+Meder,Stamov(a),30888,Milan,40,Competition,ship,London
+Diana,Maratov(a),60117,Los Angeles,32,Adventure,auto,London
+Nuraiym,Erkinbekov(a),57399,Saint-Peterburg,42,Conference,ship,Paris
+Diana,Dzhumashev(a),61587,Naryn,37,Conference,plane,Paris
+Gulmira,Bakytov(a),50546,London,64,Shopping,auto,Moscow
+Askat,Sadyrov(a),65629,Berlin,39,Beach holiday,train,London
+Timur,Erkinbekov(a),37037,London,65,Cultural,auto,Dubai
+Temirlan,Kadyrakhunov(a),54237,Napoli,59,Adventure,auto,Dubai
+Nuraiym,Dzhakshylykov(a),60119,Los Angeles,64,Adventure,ship,Paris
+Bayastan,Pratov(a),40594,Naryn,54,Beach holiday,train,New York
+Nuraiym,Stamov(a),35367,Saint-Peterburg,38,Cultural,train,Dubai
+Gulmira,Asankadyrov(a),35884,Milan,57,Conference,ship,New York
+Dastan,Tashiev(a),39622,New York,57,Adventure,train,Dubai
+Ernaz,Dzhakshylykov(a),68152,Paris,31,Shopping,plane,Moscow
+Rayana,Bakytov(a),32870,Hamburg,52,Shopping,ship,Dubai
+Akyl,Bakytov(a),37292,Miami,33,Cultural,ship,Moscow
+Erkinbek,Adylgaziev(a),50316,Napoli,61,Cultural,auto,Moscow
+Meder,Maratov(a),46928,Paris,55,Cultural,auto,London
+Nurdin,Dzhakshylykov(a),59347,New York,60,Skiing,ship,Dubai
+Dzhamilya,Kadyrov(a),40549,Paris,36,Competition,auto,Paris
+Nuraiym,Bakytov(a),47956,Moscow,31,Cultural,plane,New York
+Rayana,Sadyrov(a),67953,Naryn,49,Beach holiday,ship,New York
+Diana,Kadyrov(a),59440,Paris,42,Shopping,train,London
+Azilya,Erkinbekov(a),56224,Rome,37,Competition,auto,Paris
+Kirill,Adylgaziev(a),31394,Rome,41,Adventure,auto,Moscow
+Askat,Adylgaziev(a),49416,Napoli,50,Adventure,ship,New York
+Bayastan,Tashiev(a),59456,Moscow,41,Adventure,auto,Dubai
+Jusup,Maratov(a),60745,Potsdam,62,Cultural,ship,Moscow
+Timur,Stamov(a),62763,Bayern,56,Adventure,ship,New York
+Altynai,Kadyrakhunov(a),30675,Hamburg,62,Cultural,auto,Moscow
+Altynai,Saparov(a),48529,Rome,51,Competition,ship,London
+Ernaz,Kadyrakhunov(a),30617,Berlin,51,Skiing,ship,London
+Azilya,Dzhakshylykov(a),31716,Berlin,51,Cultural,train,Moscow
+Kirill,Asankadyrov(a),36782,Paris,50,Beach holiday,auto,Moscow
+Erkinbek,Kadyrakhunov(a),66446,Bayern,46,Adventure,train,Dubai
+Diana,Saparov(a),34003,Berlin,45,Beach holiday,train,New York
+Osmonkul,Akaev(a),66752,Hamburg,35,Conference,auto,London
+Nazira,Akaev(a),33757,Rome,51,Shopping,plane,Paris
+Rayana,Bakytov(a),58252,Naryn,51,Adventure,ship,London
+Temirlan,Dzhumashev(a),42241,Los Angeles,62,Conference,auto,Dubai
+Askat,Abdyrakmanov(a),51454,Paris,41,Conference,plane,Moscow
+Osmonkul,Bakytov(a),52303,London,43,Shopping,train,New York
+Nuraiym,Kadyrakhunov(a),32672,Paris,50,Competition,plane,Dubai
+Kirill,Adylgaziev(a),59315,Moscow,54,Shopping,train,Dubai
+Osmonkul,Tashiev(a),47895,Napoli,43,Shopping,auto,New York
+Jusup,Adylgaziev(a),37311,Hamburg,60,Conference,auto,New York
+Askat,Dzhumashev(a),66298,Saint-Peterburg,53,Beach holiday,plane,Moscow
+Aktan,Stamov(a),41753,New York,47,Adventure,ship,London
+Dastan,Dzhumashev(a),69133,Hamburg,52,Skiing,plane,Paris
+Nuraiym,Dzhumashev(a),43010,Bishkek,40,Conference,train,Paris
+Altai,Sadyrov(a),41503,Napoli,31,Adventure,auto,Paris
+Altynai,Tashiev(a),33496,Bayern,55,Adventure,plane,Dubai
+Nurdin,Abdyrakmanov(a),59897,Naryn,59,Conference,auto,Dubai
+Erkinbek,Dzhumashev(a),68402,Milan,42,Shopping,ship,New York
+Jusup,Adylgaziev(a),56021,Berlin,59,Beach holiday,auto,Dubai
+Osmonkul,Saparov(a),49166,Saint-Peterburg,36,Skiing,auto,Moscow
+Rayana,Adylgaziev(a),52036,Los Angeles,50,Competition,auto,Paris
+Azilya,Abdyrakmanov(a),35100,Potsdam,46,Skiing,auto,Moscow
+Osmonkul,Tashiev(a),47494,Naryn,64,Cultural,auto,Dubai
+Meder,Tashiev(a),34795,Saint-Peterburg,30,Beach holiday,plane,Dubai
+Bayastan,Abdyrakmanov(a),54281,Rome,36,Conference,auto,London
+Bayastan,Stamov(a),44605,Los Angeles,49,Beach holiday,auto,New York
+Nurdin,Dzhakshylykov(a),59067,Bishkek,33,Adventure,train,Dubai
+Nurdin,Stamov(a),48350,Napoli,44,Skiing,ship,Moscow
+Altynai,Pratov(a),37527,Hamburg,34,Shopping,plane,Paris
+Askat,Akaev(a),51007,Naryn,30,Competition,train,London
+Azilya,Pratov(a),63071,Potsdam,47,Shopping,plane,Paris
+Meder,Kadyrakhunov(a),56079,Rome,56,Adventure,train,Paris
+Askat,Tashiev(a),49729,Potsdam,63,Beach holiday,ship,Paris
+Meder,Abdyrakmanov(a),64968,Milan,52,Skiing,auto,New York
+Dzhumagul,Maratov(a),41706,Milan,40,Cultural,plane,Moscow
+Temirlan,Akaev(a),45851,Moscow,38,Skiing,train,New York
+Altai,Dzhumashev(a),69041,Saint-Peterburg,53,Skiing,auto,Paris
+Timur,Pratov(a),55746,London,59,Competition,auto,Moscow
+Ernaz,Akaev(a),41627,Naryn,37,Skiing,ship,Dubai
+Kirill,Pratov(a),49005,London,55,Shopping,ship,New York
+Rayana,Asankadyrov(a),60769,Saint-Peterburg,38,Cultural,train,Moscow
+Nurdin,Dzhumashev(a),37319,Paris,37,Skiing,plane,Moscow
+Gulmira,Akaev(a),66842,Napoli,58,Cultural,train,Dubai
+Dastan,Tashiev(a),39833,Naryn,56,Competition,ship,New York
+Nuraiym,Maratov(a),61960,Los Angeles,42,Competition,ship,New York
+Meder,Akaev(a),31055,Potsdam,48,Beach holiday,auto,London
+Jusup,Bakytov(a),35508,Bayern,37,Cultural,ship,Moscow
+Ernaz,Kadyrakhunov(a),33864,Berlin,47,Skiing,train,Paris
+Ernaz,Dzhumashev(a),52520,Berlin,40,Beach holiday,train,London
+Askat,Stamov(a),50959,Berlin,48,Competition,train,Paris
+Nazira,Sadyrov(a),59184,Potsdam,54,Conference,ship,Paris
+Bayastan,Kadyrakhunov(a),46083,Los Angeles,52,Cultural,plane,Dubai
+Altai,Tashiev(a),67671,Naryn,43,Competition,auto,London
+Ernaz,Tashiev(a),66621,Hamburg,61,Skiing,auto,Dubai
+Kirill,Saparov(a),51769,Bayern,47,Competition,train,Moscow
+Dzhazgul,Tashiev(a),32209,Los Angeles,32,Beach holiday,ship,New York
+Erkinbek,Kadyrov(a),37936,Naryn,30,Cultural,auto,London
+Nuraiym,Adylgaziev(a),56733,Bishkek,32,Shopping,auto,New York
+Askat,Pratov(a),69551,Hamburg,30,Shopping,train,Moscow
+Temirlan,Maratov(a),43053,Napoli,59,Shopping,plane,Dubai
+Aktan,Saparov(a),64939,New York,64,Competition,ship,Dubai
+Dzhamilya,Asankadyrov(a),37795,Bayern,58,Skiing,auto,New York
+Dzhumagul,Tashiev(a),43375,Rome,48,Beach holiday,ship,Moscow
+Aktan,Maratov(a),50091,Milan,40,Beach holiday,plane,Dubai
+Dzhazgul,Tashiev(a),34066,Napoli,50,Cultural,train,London
+Azilya,Bakytov(a),39893,Hamburg,49,Cultural,plane,Paris
+Timur,Sadyrov(a),36625,Bayern,58,Adventure,train,Dubai
+Jusup,Bakytov(a),61972,London,53,Beach holiday,ship,Paris
+Temirlan,Dzhakshylykov(a),46270,Naryn,56,Beach holiday,train,Paris
+Askat,Kadyrov(a),47750,Bishkek,47,Cultural,train,Paris
+Bayastan,Saparov(a),32174,New York,30,Skiing,auto,Paris
+Nuraiym,Saparov(a),55943,Milan,42,Adventure,plane,London
+Nazira,Abdyrakmanov(a),34626,Potsdam,42,Shopping,auto,Moscow
+Karina,Abdyrakmanov(a),66859,Miami,63,Cultural,train,New York
+Altynai,Erkinbekov(a),57493,Moscow,48,Shopping,plane,London
+Nuraiym,Asankadyrov(a),31479,Rome,42,Conference,auto,London
+Osmonkul,Bakytov(a),63838,Paris,32,Competition,plane,New York
+Osmonkul,Akaev(a),50934,Bishkek,63,Competition,plane,London
+Aktan,Dzhumashev(a),39591,Napoli,51,Competition,plane,Paris
+Aktan,Kadyrov(a),51477,Bayern,49,Adventure,auto,New York
+Altynai,Akaev(a),34955,Saint-Peterburg,44,Skiing,train,Paris
+Dzhumagul,Abdyrakmanov(a),36458,Paris,54,Skiing,auto,Paris
+Kirill,Adylgaziev(a),51500,Hamburg,42,Adventure,plane,Dubai
+Jusup,Bakytov(a),69198,Saint-Peterburg,33,Shopping,ship,Moscow
+Altynai,Kadyrakhunov(a),34612,Potsdam,49,Beach holiday,auto,Paris
+Aktan,Akaev(a),54086,Rome,44,Competition,auto,Moscow
+Kirill,Abdyrakmanov(a),33414,Saint-Peterburg,53,Adventure,plane,New York
+Erkinbek,Kadyrov(a),66635,London,40,Conference,auto,Paris
+Dzhumagul,Erkinbekov(a),30031,Miami,41,Skiing,train,New York
+Meder,Dzhakshylykov(a),48254,Saint-Peterburg,61,Conference,ship,Paris
+Dastan,Abdyrakmanov(a),62285,Bayern,55,Competition,auto,London
+Nazira,Tashiev(a),40412,Los Angeles,31,Shopping,plane,Dubai
+Azilya,Adylgaziev(a),43770,Naryn,32,Beach holiday,ship,London
+Nuraiym,Dzhumashev(a),35571,London,43,Skiing,ship,Moscow
+Aktan,Kadyrakhunov(a),64685,New York,60,Beach holiday,plane,Paris
+Dastan,Akaev(a),56703,Hamburg,65,Cultural,plane,Paris
+Dzhamilya,Maratov(a),44300,Napoli,43,Beach holiday,ship,New York
+Nuraiym,Sadyrov(a),63037,Rome,51,Cultural,plane,London
+Dzhazgul,Pratov(a),62929,New York,40,Shopping,plane,London
+Timur,Asankadyrov(a),53341,Miami,34,Conference,ship,Paris
+Dzhazgul,Asankadyrov(a),60716,Bayern,60,Cultural,train,Paris
+Timur,Dzhakshylykov(a),64428,London,63,Competition,plane,New York
+Dzhazgul,Erkinbekov(a),57768,New York,38,Skiing,auto,Dubai
+Temirlan,Maratov(a),35853,Los Angeles,41,Cultural,ship,Moscow
+Kirill,Bakytov(a),67719,New York,37,Skiing,train,London
+Bayastan,Asankadyrov(a),47187,London,56,Beach holiday,ship,Dubai
+Ernaz,Dzhumashev(a),69373,Saint-Peterburg,38,Competition,ship,Paris
+Diana,Kadyrov(a),45776,London,60,Beach holiday,plane,New York
+Rayana,Dzhakshylykov(a),30214,Rome,48,Adventure,ship,New York
+Jusup,Sadyrov(a),46899,Bayern,47,Shopping,auto,Moscow
+Dzhazgul,Adylgaziev(a),40357,Naryn,57,Shopping,ship,Moscow
+Temirlan,Pratov(a),48274,Napoli,34,Skiing,plane,Moscow
+Askat,Kadyrov(a),42639,Paris,57,Skiing,plane,Moscow
+Akyl,Sadyrov(a),58250,Naryn,52,Beach holiday,plane,New York
+Diana,Erkinbekov(a),30941,Bayern,64,Conference,plane,Paris
+Dzhazgul,Erkinbekov(a),49654,Moscow,50,Adventure,train,London
+Dzhazgul,Abdyrakmanov(a),30492,Berlin,42,Shopping,ship,New York
+Aktan,Asankadyrov(a),43375,Bayern,52,Skiing,train,Moscow
+Kirill,Stamov(a),60430,Hamburg,41,Cultural,auto,Dubai
+Diana,Dzhakshylykov(a),36171,Saint-Peterburg,30,Cultural,train,Moscow
+Altai,Bakytov(a),43076,Potsdam,39,Cultural,ship,Moscow
+Askat,Bakytov(a),61324,Bayern,55,Conference,train,Moscow
+Akyl,Dzhumashev(a),51791,Moscow,63,Cultural,ship,Paris
+Temirlan,Asankadyrov(a),45264,London,50,Conference,plane,Moscow
+Nuraiym,Kadyrakhunov(a),35649,Rome,39,Shopping,train,Paris
+Altai,Akaev(a),60000,Bishkek,49,Conference,train,Dubai
+Dzhumagul,Maratov(a),31294,Hamburg,56,Cultural,plane,Paris
+Aktan,Saparov(a),32979,Miami,45,Adventure,train,New York
+Diana,Abdyrakmanov(a),47506,Milan,30,Beach holiday,ship,Paris
+Rayana,Kadyrov(a),42608,Bishkek,55,Beach holiday,plane,Dubai
+Dzhumagul,Akaev(a),33582,London,38,Conference,plane,New York
+Meder,Kadyrov(a),68116,Napoli,63,Competition,plane,Moscow
+Nurdin,Maratov(a),54507,Hamburg,40,Beach holiday,auto,Dubai
+Askat,Asankadyrov(a),62772,Saint-Peterburg,63,Competition,plane,Moscow
+Nuraiym,Maratov(a),55679,Milan,63,Shopping,ship,New York
+Altynai,Dzhakshylykov(a),55488,New York,62,Conference,ship,New York
+Dzhazgul,Adylgaziev(a),44754,Potsdam,47,Beach holiday,auto,London
+Altai,Kadyrakhunov(a),40095,Milan,61,Conference,auto,London
+Dzhamilya,Kadyrov(a),38726,Napoli,57,Shopping,train,Moscow
+Dastan,Abdyrakmanov(a),40813,Saint-Peterburg,48,Conference,plane,London
+Akyl,Erkinbekov(a),58956,Hamburg,55,Shopping,auto,Moscow
+Askat,Dzhumashev(a),30950,Miami,62,Competition,plane,London
+Erkinbek,Saparov(a),32967,New York,61,Skiing,train,Moscow
+Bayastan,Erkinbekov(a),59414,Rome,30,Adventure,auto,New York
+Jusup,Kadyrakhunov(a),41448,New York,47,Shopping,train,Moscow
+Dastan,Abdyrakmanov(a),32862,Paris,50,Competition,train,London
+Osmonkul,Dzhumashev(a),66529,Paris,60,Competition,plane,New York
+Akyl,Sadyrov(a),38905,Los Angeles,55,Shopping,train,New York
+Nazira,Saparov(a),37627,Berlin,34,Shopping,plane,Dubai
+Osmonkul,Erkinbekov(a),30543,Rome,63,Adventure,auto,Dubai
+Temirlan,Saparov(a),53814,Milan,57,Shopping,ship,Dubai
+Nurdin,Tashiev(a),57683,Paris,55,Beach holiday,train,Dubai
+Meder,Pratov(a),66068,New York,49,Adventure,plane,Paris
+Askat,Maratov(a),62610,Bayern,57,Adventure,auto,Paris
+Nazira,Tashiev(a),56864,Naryn,32,Beach holiday,auto,Dubai
+Kirill,Kadyrakhunov(a),46548,Miami,41,Conference,plane,Dubai
+Osmonkul,Maratov(a),68158,Naryn,40,Conference,plane,New York
+Rayana,Bakytov(a),66118,Rome,62,Competition,train,New York
+Dzhumagul,Kadyrakhunov(a),36817,Naryn,52,Shopping,train,Paris
+Nuraiym,Pratov(a),43048,Moscow,63,Adventure,train,Dubai
+Altai,Bakytov(a),53517,Los Angeles,35,Skiing,plane,Dubai
+Aktan,Kadyrakhunov(a),42111,Los Angeles,36,Beach holiday,ship,Paris
+Aktan,Dzhumashev(a),31480,Naryn,48,Beach holiday,ship,Paris
+Nazira,Bakytov(a),36029,Rome,40,Beach holiday,plane,London
+Dzhamilya,Saparov(a),49474,Los Angeles,57,Adventure,train,London
+Azilya,Bakytov(a),66306,Bishkek,57,Shopping,train,London
+Aktan,Pratov(a),63011,Berlin,62,Conference,ship,Dubai
+Diana,Sadyrov(a),39325,Bishkek,40,Cultural,plane,Moscow
+Akyl,Tashiev(a),68664,Milan,36,Cultural,auto,Moscow
+Dastan,Pratov(a),56226,Berlin,57,Skiing,train,London
+Aktan,Stamov(a),37803,Paris,49,Cultural,train,London
+Askat,Maratov(a),39586,Los Angeles,53,Adventure,train,Moscow
+Akyl,Tashiev(a),54200,Potsdam,42,Adventure,ship,Dubai
+Karina,Kadyrakhunov(a),64612,Berlin,47,Adventure,train,Paris
+Nuraiym,Abdyrakmanov(a),43665,New York,59,Competition,train,London
+Dzhamilya,Sadyrov(a),49469,Bishkek,57,Cultural,auto,Paris
+Nuraiym,Erkinbekov(a),67152,Bayern,37,Conference,train,New York
+Meder,Tashiev(a),43996,Napoli,30,Cultural,auto,Moscow
+Diana,Kadyrakhunov(a),57112,Milan,30,Cultural,ship,Moscow
+Askat,Adylgaziev(a),37535,New York,37,Beach holiday,auto,Moscow
+Aktan,Bakytov(a),69254,Hamburg,52,Skiing,ship,Moscow
+Dastan,Maratov(a),48839,Naryn,56,Shopping,auto,Moscow
+Rayana,Kadyrakhunov(a),31688,Rome,44,Beach holiday,auto,London
+Temirlan,Bakytov(a),31440,Potsdam,38,Shopping,ship,Dubai
+Kirill,Akaev(a),68414,Moscow,57,Cultural,train,Paris
+Meder,Kadyrakhunov(a),43049,Moscow,54,Conference,plane,London
+Meder,Asankadyrov(a),56093,Potsdam,54,Beach holiday,plane,London
+Altynai,Sadyrov(a),48317,Potsdam,30,Adventure,auto,Moscow
+Osmonkul,Dzhumashev(a),41281,Moscow,64,Beach holiday,train,Paris
+Erkinbek,Asankadyrov(a),31997,Bayern,37,Shopping,auto,Moscow
+Erkinbek,Bakytov(a),46179,London,65,Skiing,plane,Dubai
+Dzhazgul,Dzhakshylykov(a),31201,Naryn,39,Adventure,auto,London
+Gulmira,Abdyrakmanov(a),39360,New York,58,Shopping,ship,Dubai
+Jusup,Maratov(a),40949,Naryn,47,Adventure,auto,Moscow
+Ernaz,Pratov(a),56817,Paris,44,Adventure,ship,Dubai
+Bayastan,Akaev(a),37538,Bishkek,34,Skiing,plane,Moscow
+Nuraiym,Abdyrakmanov(a),33779,New York,36,Competition,ship,Paris
+Dzhumagul,Erkinbekov(a),35675,Milan,36,Conference,train,London
+Timur,Asankadyrov(a),54471,Bishkek,38,Cultural,auto,London
+Akyl,Maratov(a),36300,Los Angeles,51,Cultural,ship,Paris
+Dastan,Stamov(a),54235,Saint-Peterburg,39,Competition,auto,Paris
+Akyl,Abdyrakmanov(a),31861,Hamburg,45,Beach holiday,auto,Paris
+Meder,Kadyrakhunov(a),53385,Paris,42,Cultural,ship,Moscow
+Altai,Abdyrakmanov(a),64702,Paris,40,Skiing,ship,Paris
+Ernaz,Sadyrov(a),30977,Bishkek,52,Skiing,ship,Moscow
+Timur,Maratov(a),35681,New York,65,Conference,auto,Moscow
+Askat,Pratov(a),63931,London,44,Cultural,train,London
+Nurdin,Sadyrov(a),33543,Miami,52,Shopping,auto,London
+Dzhumagul,Kadyrov(a),47718,Miami,54,Competition,ship,Dubai
+Akyl,Abdyrakmanov(a),52823,Miami,53,Beach holiday,auto,London
+Rayana,Adylgaziev(a),68681,Berlin,62,Skiing,auto,London
+Timur,Erkinbekov(a),61709,Moscow,46,Competition,plane,New York
+Nazira,Dzhakshylykov(a),44605,Potsdam,31,Adventure,train,Dubai
+Azilya,Stamov(a),43394,Los Angeles,50,Conference,plane,Paris
+Nuraiym,Bakytov(a),54779,Hamburg,56,Shopping,auto,Moscow
+Nuraiym,Bakytov(a),43524,Naryn,59,Competition,plane,Dubai
+Jusup,Abdyrakmanov(a),61309,Napoli,60,Cultural,plane,Paris
+Gulmira,Saparov(a),60900,Miami,30,Beach holiday,plane,New York
+Diana,Saparov(a),33333,Potsdam,41,Conference,auto,Dubai
+Bayastan,Kadyrov(a),34984,Bayern,37,Beach holiday,train,Dubai
+Temirlan,Kadyrakhunov(a),46914,Paris,50,Competition,train,Paris
+Osmonkul,Erkinbekov(a),68913,Moscow,32,Skiing,plane,New York
+Altynai,Erkinbekov(a),56655,Hamburg,50,Competition,ship,Moscow
+Aktan,Kadyrakhunov(a),58192,Bishkek,57,Beach holiday,ship,Paris
+Karina,Dzhakshylykov(a),64752,Bishkek,44,Skiing,plane,London
+Azilya,Stamov(a),31461,Paris,57,Adventure,train,London
+Nazira,Kadyrov(a),38125,Bayern,54,Beach holiday,auto,Dubai
+Dzhumagul,Sadyrov(a),66599,Potsdam,40,Shopping,ship,New York
+Karina,Kadyrakhunov(a),47974,Saint-Peterburg,40,Cultural,plane,Paris
+Bayastan,Tashiev(a),49815,Naryn,42,Beach holiday,ship,New York
+Temirlan,Adylgaziev(a),62521,Hamburg,60,Adventure,auto,Moscow
+Nuraiym,Tashiev(a),69927,Bayern,59,Cultural,ship,New York
+Altai,Dzhumashev(a),44831,London,51,Competition,train,Dubai
+Nuraiym,Kadyrov(a),47157,Bishkek,43,Cultural,auto,Paris
+Altynai,Pratov(a),41969,Potsdam,48,Competition,ship,Dubai
+Dzhumagul,Stamov(a),56451,Berlin,42,Shopping,train,New York
+Temirlan,Saparov(a),32383,Hamburg,65,Skiing,plane,Dubai
+Askat,Saparov(a),31513,Paris,42,Shopping,plane,Paris
+Diana,Adylgaziev(a),62422,Rome,62,Beach holiday,train,London
+Temirlan,Dzhumashev(a),36722,Rome,39,Cultural,train,Dubai
+Ernaz,Sadyrov(a),48352,Moscow,36,Beach holiday,ship,Paris
+Dzhazgul,Adylgaziev(a),67992,Los Angeles,48,Competition,ship,Dubai
+Nurdin,Asankadyrov(a),48922,Saint-Peterburg,54,Adventure,train,Paris
+Dzhumagul,Maratov(a),37949,Saint-Peterburg,51,Competition,train,New York
+Karina,Maratov(a),54057,Miami,58,Beach holiday,plane,New York
+Diana,Pratov(a),63025,Saint-Peterburg,31,Competition,plane,New York
+Osmonkul,Pratov(a),55150,Miami,32,Shopping,auto,Dubai
+Gulmira,Erkinbekov(a),41765,Milan,49,Cultural,plane,New York
+Aktan,Akaev(a),30221,Rome,32,Skiing,auto,Paris
+Ernaz,Abdyrakmanov(a),37823,Rome,52,Adventure,ship,Dubai
+Akyl,Dzhumashev(a),52282,Potsdam,30,Competition,plane,New York
+Dzhazgul,Kadyrakhunov(a),35466,Hamburg,31,Competition,plane,Moscow
+Osmonkul,Pratov(a),60903,Naryn,41,Shopping,ship,Paris
+Altai,Saparov(a),51323,Berlin,56,Shopping,auto,Paris
+Bayastan,Tashiev(a),48770,Bishkek,31,Beach holiday,train,London
+Osmonkul,Abdyrakmanov(a),61091,Moscow,53,Cultural,auto,Moscow
+Nuraiym,Dzhumashev(a),56539,Potsdam,45,Beach holiday,ship,Dubai
+Azilya,Dzhakshylykov(a),63231,Naryn,34,Skiing,plane,Dubai
+Kirill,Dzhakshylykov(a),67426,Paris,55,Beach holiday,auto,New York
+Temirlan,Dzhakshylykov(a),56441,Milan,63,Beach holiday,train,Moscow
+Jusup,Dzhakshylykov(a),41943,Los Angeles,51,Cultural,plane,Dubai
+Altai,Bakytov(a),34616,Miami,43,Adventure,auto,New York
+Akyl,Dzhumashev(a),30908,Paris,65,Shopping,ship,Moscow
+Aktan,Kadyrov(a),39445,Hamburg,44,Skiing,train,Moscow
+Bayastan,Erkinbekov(a),39420,Milan,44,Adventure,plane,New York
+Diana,Adylgaziev(a),61853,Moscow,32,Conference,auto,Paris
+Rayana,Sadyrov(a),57062,Miami,38,Beach holiday,plane,Moscow
+Dzhamilya,Dzhakshylykov(a),41990,Paris,42,Cultural,train,New York
+Nuraiym,Dzhumashev(a),31478,New York,56,Beach holiday,ship,Dubai
+Diana,Abdyrakmanov(a),68361,Moscow,53,Skiing,ship,Dubai
+Nuraiym,Pratov(a),51077,Milan,58,Shopping,auto,Dubai
+Jusup,Kadyrov(a),54857,Miami,53,Adventure,ship,London
+Osmonkul,Erkinbekov(a),39467,Miami,30,Adventure,train,New York
+Gulmira,Abdyrakmanov(a),58714,Hamburg,53,Competition,plane,Dubai
+Aktan,Kadyrov(a),60891,Rome,59,Beach holiday,ship,New York
+Rayana,Asankadyrov(a),69077,Los Angeles,59,Conference,auto,London
+Nazira,Abdyrakmanov(a),55314,Moscow,56,Skiing,ship,New York
+Dzhamilya,Saparov(a),33696,Potsdam,34,Adventure,plane,Dubai
+Gulmira,Adylgaziev(a),31377,London,33,Adventure,auto,New York
+Timur,Kadyrov(a),47469,Miami,48,Shopping,ship,New York
+Ernaz,Erkinbekov(a),35038,Naryn,33,Cultural,train,London
+Altai,Sadyrov(a),38058,Moscow,41,Adventure,ship,Paris
+Temirlan,Kadyrakhunov(a),38180,New York,31,Conference,plane,New York
+Bayastan,Kadyrov(a),59455,Hamburg,38,Beach holiday,auto,New York
+Erkinbek,Erkinbekov(a),50754,Milan,60,Adventure,ship,London
+Meder,Sadyrov(a),39289,Hamburg,63,Competition,auto,New York
+Ernaz,Dzhumashev(a),36741,Bishkek,31,Beach holiday,plane,Dubai
+Dzhazgul,Sadyrov(a),35962,Rome,52,Conference,train,Moscow
+Altynai,Sadyrov(a),68330,Bishkek,62,Beach holiday,train,New York
+Jusup,Pratov(a),36804,Naryn,46,Cultural,train,Paris
+Bayastan,Saparov(a),69945,Rome,34,Skiing,plane,London
+Altynai,Dzhumashev(a),33239,Bishkek,63,Shopping,plane,Paris
+Karina,Adylgaziev(a),63401,London,62,Cultural,auto,Paris
+Diana,Abdyrakmanov(a),43961,New York,45,Beach holiday,auto,Paris
+Akyl,Asankadyrov(a),47757,Berlin,36,Cultural,ship,New York
+Azilya,Stamov(a),59661,London,65,Conference,auto,New York
+Azilya,Tashiev(a),52170,Los Angeles,42,Conference,train,Dubai
+Nuraiym,Akaev(a),45691,Bishkek,51,Skiing,plane,Moscow
+Aktan,Asankadyrov(a),47477,Milan,44,Beach holiday,plane,New York
+Dzhazgul,Erkinbekov(a),49650,London,44,Shopping,ship,Paris
+Altynai,Maratov(a),47470,Napoli,33,Skiing,ship,Moscow
+Temirlan,Kadyrov(a),49511,Bishkek,63,Cultural,auto,London
+Kirill,Bakytov(a),61604,Paris,62,Cultural,ship,London
+Nuraiym,Pratov(a),46289,Napoli,42,Conference,ship,Dubai
+Nazira,Tashiev(a),43749,New York,57,Conference,plane,London
+Dzhumagul,Stamov(a),31111,Moscow,57,Competition,plane,New York
+Altai,Kadyrov(a),59248,Naryn,57,Skiing,ship,New York
+Temirlan,Asankadyrov(a),60137,Napoli,61,Shopping,auto,Paris
+Dzhamilya,Stamov(a),39411,Miami,53,Shopping,train,Paris
+Dzhazgul,Akaev(a),52783,Rome,53,Competition,train,Dubai
+Bayastan,Dzhumashev(a),36143,London,43,Cultural,auto,Moscow
+Altai,Dzhakshylykov(a),30158,Bayern,31,Competition,ship,London
+Altynai,Akaev(a),47292,Bishkek,51,Adventure,auto,Moscow
+Altai,Akaev(a),37597,Los Angeles,58,Shopping,auto,Moscow
+Nazira,Dzhakshylykov(a),41778,New York,33,Skiing,ship,New York
+Dzhumagul,Saparov(a),44982,Napoli,51,Shopping,auto,London
+Dzhumagul,Saparov(a),35426,Paris,34,Shopping,ship,Dubai
+Timur,Stamov(a),34024,Hamburg,46,Adventure,plane,Paris
+Dzhamilya,Bakytov(a),69680,Moscow,61,Competition,plane,Moscow
+Nuraiym,Saparov(a),57103,Berlin,38,Conference,plane,London
+Dzhumagul,Saparov(a),41221,Berlin,35,Beach holiday,plane,New York
+Osmonkul,Kadyrakhunov(a),41974,Napoli,62,Conference,train,New York
+Altai,Adylgaziev(a),35253,Milan,31,Beach holiday,auto,New York
+Ernaz,Kadyrov(a),66505,Miami,63,Conference,auto,London
+Bayastan,Kadyrakhunov(a),35809,Bishkek,54,Beach holiday,train,Paris
+Dzhamilya,Dzhakshylykov(a),69362,Bishkek,62,Adventure,train,London
+Nurdin,Abdyrakmanov(a),62075,Paris,52,Skiing,train,New York
+Altynai,Sadyrov(a),48025,New York,33,Competition,plane,London
+Meder,Asankadyrov(a),33099,London,39,Shopping,plane,London
+Timur,Saparov(a),59075,Berlin,33,Competition,train,New York
+Bayastan,Sadyrov(a),51733,Saint-Peterburg,61,Shopping,ship,Dubai
+Bayastan,Maratov(a),62894,Paris,61,Beach holiday,train,Paris
+Bayastan,Saparov(a),43676,Los Angeles,61,Shopping,train,Paris
+Dastan,Dzhakshylykov(a),49623,New York,41,Conference,train,London
+Dzhazgul,Kadyrakhunov(a),62013,Moscow,63,Shopping,train,Paris
+Akyl,Adylgaziev(a),44799,Milan,37,Conference,ship,Paris
+Akyl,Dzhumashev(a),60638,Berlin,52,Conference,plane,New York
+Dzhamilya,Bakytov(a),48781,London,56,Beach holiday,train,Moscow
+Dzhazgul,Adylgaziev(a),44331,Potsdam,33,Beach holiday,ship,Paris
+Jusup,Kadyrakhunov(a),50013,London,60,Cultural,auto,Dubai
+Kirill,Kadyrov(a),39253,Bishkek,39,Competition,auto,Paris
+Dzhazgul,Adylgaziev(a),50499,Potsdam,62,Conference,ship,New York
+Dzhazgul,Adylgaziev(a),30716,Rome,52,Shopping,plane,Dubai
+Dzhumagul,Kadyrakhunov(a),68907,Potsdam,48,Conference,train,Moscow
+Timur,Abdyrakmanov(a),46622,New York,39,Cultural,auto,Paris
+Nurdin,Tashiev(a),43019,Bayern,40,Beach holiday,ship,New York
+Dzhamilya,Dzhakshylykov(a),40299,Los Angeles,37,Skiing,plane,New York
+Altynai,Erkinbekov(a),58505,New York,51,Beach holiday,auto,Moscow
+Karina,Stamov(a),57865,Napoli,32,Skiing,train,Paris
+Jusup,Erkinbekov(a),41015,Berlin,62,Cultural,auto,London
+Azilya,Adylgaziev(a),59305,Moscow,63,Competition,auto,Moscow
+Aktan,Adylgaziev(a),64037,Los Angeles,40,Adventure,plane,New York
+Altai,Abdyrakmanov(a),51439,Rome,54,Beach holiday,ship,London
+Temirlan,Kadyrakhunov(a),67733,Los Angeles,34,Cultural,train,Moscow
+Karina,Adylgaziev(a),58094,London,53,Adventure,plane,New York
+Timur,Pratov(a),39428,Naryn,32,Shopping,plane,London
+Nurdin,Dzhumashev(a),39808,Napoli,65,Adventure,train,Dubai
+Aktan,Tashiev(a),67810,Napoli,49,Beach holiday,train,New York
+Altai,Pratov(a),68347,Hamburg,35,Beach holiday,train,London
+Kirill,Bakytov(a),55561,Miami,51,Adventure,plane,Dubai
+Dzhamilya,Abdyrakmanov(a),36250,Los Angeles,42,Skiing,train,London
+Jusup,Asankadyrov(a),55172,Los Angeles,62,Cultural,ship,Moscow
+Osmonkul,Asankadyrov(a),54519,Saint-Peterburg,62,Cultural,train,Moscow
+Bayastan,Tashiev(a),50485,Milan,34,Skiing,plane,Moscow
+Osmonkul,Dzhakshylykov(a),63355,Moscow,40,Beach holiday,auto,Moscow
+Altai,Dzhakshylykov(a),37928,Milan,64,Conference,train,London
+Erkinbek,Tashiev(a),55054,Naryn,57,Cultural,auto,Moscow
+Bayastan,Saparov(a),62457,Potsdam,45,Beach holiday,ship,Dubai
+Akyl,Sadyrov(a),59605,London,42,Competition,auto,Moscow
+Meder,Asankadyrov(a),65191,Los Angeles,33,Competition,auto,New York
+Rayana,Bakytov(a),39657,Naryn,38,Cultural,auto,Paris
+Nazira,Bakytov(a),50977,Bayern,34,Conference,plane,Paris
+Nuraiym,Dzhumashev(a),65695,Miami,34,Competition,train,Dubai
+Aktan,Pratov(a),39516,Milan,59,Shopping,plane,Dubai
+Nurdin,Dzhakshylykov(a),38758,Moscow,54,Cultural,ship,Moscow
+Karina,Adylgaziev(a),36550,New York,37,Competition,auto,Moscow
+Aktan,Asankadyrov(a),32246,Los Angeles,37,Cultural,plane,New York
+Rayana,Stamov(a),65771,Milan,47,Skiing,train,Paris
+Nuraiym,Pratov(a),67228,Potsdam,47,Competition,auto,London
+Erkinbek,Dzhakshylykov(a),34793,New York,50,Competition,plane,London
+Altynai,Adylgaziev(a),32347,Bishkek,32,Skiing,train,Paris
+Dzhumagul,Akaev(a),44900,Hamburg,47,Adventure,auto,Dubai
+Dzhumagul,Saparov(a),32988,Los Angeles,42,Shopping,ship,London
+Nurdin,Akaev(a),66308,Rome,46,Skiing,train,London
+Aktan,Dzhakshylykov(a),46208,Los Angeles,63,Shopping,auto,Dubai
+Askat,Dzhumashev(a),60667,Berlin,58,Shopping,ship,Dubai
+Aktan,Asankadyrov(a),64457,Bayern,57,Adventure,ship,Moscow
+Dastan,Saparov(a),46389,Moscow,33,Cultural,auto,Paris
+Altai,Pratov(a),62350,Milan,37,Cultural,plane,Dubai
+Altynai,Saparov(a),35342,Napoli,46,Conference,train,Dubai
+Temirlan,Asankadyrov(a),43826,Miami,60,Conference,train,New York
+Dzhazgul,Dzhumashev(a),44432,Saint-Peterburg,36,Adventure,auto,Paris
+Dzhamilya,Tashiev(a),31596,Bayern,63,Beach holiday,ship,London
+Jusup,Tashiev(a),36609,Saint-Peterburg,57,Beach holiday,plane,London
+Gulmira,Adylgaziev(a),47394,Moscow,56,Shopping,ship,Paris
+Kirill,Akaev(a),40598,Naryn,53,Conference,plane,Moscow
+Temirlan,Adylgaziev(a),66415,Napoli,63,Shopping,auto,Moscow
+Gulmira,Maratov(a),69857,Napoli,42,Competition,ship,London
+Meder,Kadyrakhunov(a),33199,Rome,49,Conference,ship,New York
+Azilya,Abdyrakmanov(a),34909,Bishkek,37,Conference,auto,Paris
+Meder,Asankadyrov(a),51464,Potsdam,37,Cultural,train,London
+Akyl,Maratov(a),34876,Milan,36,Cultural,plane,Dubai
+Meder,Dzhakshylykov(a),51354,Los Angeles,61,Competition,auto,Dubai
+Jusup,Dzhumashev(a),36865,Miami,53,Skiing,plane,London
+Aktan,Adylgaziev(a),30925,Naryn,53,Shopping,auto,Dubai
+Azilya,Bakytov(a),41590,Berlin,50,Conference,train,Dubai
+Aktan,Asankadyrov(a),40750,Potsdam,36,Conference,plane,New York
+Dastan,Stamov(a),68235,Moscow,64,Skiing,train,Paris
+Azilya,Maratov(a),59878,Miami,53,Skiing,train,London
+Timur,Kadyrakhunov(a),63452,Bishkek,34,Cultural,plane,London
+Rayana,Maratov(a),47215,Berlin,34,Beach holiday,train,Dubai
+Nuraiym,Pratov(a),42496,Berlin,56,Conference,train,New York
+Dzhazgul,Erkinbekov(a),31110,Potsdam,65,Skiing,plane,Dubai
+Dzhazgul,Sadyrov(a),48848,Los Angeles,32,Beach holiday,ship,Dubai
+Gulmira,Asankadyrov(a),35059,New York,50,Cultural,ship,Paris
+Azilya,Bakytov(a),60018,Berlin,49,Shopping,ship,Moscow
+Erkinbek,Akaev(a),59709,Milan,47,Shopping,train,Dubai
+Aktan,Dzhumashev(a),44511,Rome,35,Competition,ship,Moscow
+Kirill,Sadyrov(a),54013,Los Angeles,63,Competition,auto,Dubai
+Karina,Kadyrakhunov(a),69468,Milan,44,Adventure,train,Moscow
+Nurdin,Kadyrov(a),60324,Miami,32,Cultural,auto,New York
+Askat,Dzhakshylykov(a),59858,Miami,48,Adventure,ship,Dubai
+Altynai,Pratov(a),59371,Miami,30,Cultural,auto,Paris
+Akyl,Pratov(a),49828,Paris,37,Skiing,ship,Dubai
+Dzhumagul,Pratov(a),32626,Napoli,46,Conference,auto,Paris
+Nurdin,Kadyrov(a),62688,Hamburg,47,Adventure,ship,Moscow
+Dzhazgul,Abdyrakmanov(a),37990,Miami,62,Cultural,plane,Dubai
+Nuraiym,Sadyrov(a),50897,Paris,40,Adventure,auto,Paris
+Gulmira,Akaev(a),63420,Saint-Peterburg,49,Competition,train,London
+Dzhumagul,Asankadyrov(a),68172,Los Angeles,51,Beach holiday,plane,Dubai
+Gulmira,Abdyrakmanov(a),57991,New York,44,Conference,plane,Dubai
+Rayana,Asankadyrov(a),46716,Potsdam,38,Shopping,ship,Paris
+Rayana,Kadyrakhunov(a),62746,New York,47,Shopping,auto,Dubai
+Erkinbek,Kadyrakhunov(a),54942,Naryn,48,Skiing,plane,London
+Aktan,Asankadyrov(a),41382,Moscow,65,Shopping,ship,Dubai
+Jusup,Akaev(a),41532,London,48,Adventure,auto,Dubai
+Gulmira,Asankadyrov(a),57478,Berlin,56,Shopping,auto,Dubai
+Aktan,Pratov(a),61967,Bishkek,32,Conference,train,Moscow
+Akyl,Asankadyrov(a),37755,Bishkek,62,Conference,ship,Dubai
+Altynai,Kadyrakhunov(a),56273,Miami,64,Shopping,auto,Dubai
+Dzhumagul,Sadyrov(a),60227,London,57,Cultural,ship,Dubai
+Nazira,Tashiev(a),66993,Los Angeles,42,Competition,auto,Dubai
+Erkinbek,Bakytov(a),47085,Los Angeles,37,Shopping,train,Paris
+Dzhumagul,Asankadyrov(a),40873,Berlin,52,Competition,ship,Paris
+Karina,Dzhumashev(a),53551,Saint-Peterburg,63,Cultural,plane,Dubai
+Nurdin,Abdyrakmanov(a),43859,New York,50,Cultural,plane,New York
+Altynai,Tashiev(a),43993,Naryn,49,Cultural,plane,Moscow
+Nurdin,Kadyrov(a),67671,London,44,Cultural,auto,New York
+Gulmira,Saparov(a),64001,Moscow,59,Conference,auto,Paris
+Ernaz,Erkinbekov(a),64546,Bayern,58,Adventure,train,New York
+Rayana,Maratov(a),44290,Saint-Peterburg,36,Shopping,ship,Moscow
+Dzhamilya,Adylgaziev(a),50149,Moscow,50,Cultural,auto,London
+Nazira,Stamov(a),56163,Milan,44,Conference,auto,Paris
+Altynai,Kadyrakhunov(a),50713,Paris,59,Competition,ship,Paris
+Ernaz,Asankadyrov(a),33176,Bishkek,52,Skiing,auto,London
+Dzhumagul,Dzhakshylykov(a),48247,Hamburg,36,Competition,auto,Paris
+Temirlan,Erkinbekov(a),31389,Moscow,56,Conference,plane,Dubai
+Aktan,Adylgaziev(a),48072,London,62,Cultural,auto,New York
+Dzhumagul,Dzhumashev(a),50035,Los Angeles,41,Cultural,ship,London
+Nurdin,Tashiev(a),64844,New York,43,Skiing,train,London
+Bayastan,Erkinbekov(a),45399,New York,54,Beach holiday,plane,New York
+Kirill,Pratov(a),45202,Milan,30,Competition,auto,Paris
+Dzhumagul,Adylgaziev(a),35232,Los Angeles,59,Cultural,train,Paris
+Altai,Pratov(a),54478,Naryn,37,Beach holiday,train,New York
+Temirlan,Erkinbekov(a),41439,Berlin,31,Skiing,plane,Dubai
+Rayana,Adylgaziev(a),30431,Los Angeles,60,Beach holiday,auto,Dubai
+Diana,Stamov(a),53695,Naryn,58,Conference,train,Dubai
+Dzhazgul,Maratov(a),40063,Berlin,43,Skiing,plane,New York
+Kirill,Dzhakshylykov(a),63933,Milan,47,Conference,train,London
+Rayana,Maratov(a),52691,Moscow,33,Beach holiday,train,New York
+Jusup,Dzhakshylykov(a),58909,Paris,45,Skiing,plane,Paris
+Diana,Maratov(a),53872,London,60,Skiing,train,New York
+Temirlan,Kadyrakhunov(a),65595,Los Angeles,34,Adventure,auto,London
+Bayastan,Kadyrov(a),45549,Hamburg,37,Conference,train,Moscow
+Azilya,Tashiev(a),54261,Saint-Peterburg,51,Adventure,plane,Moscow
+Askat,Tashiev(a),39437,Bayern,48,Shopping,train,Dubai
+Nurdin,Adylgaziev(a),36954,Bishkek,43,Skiing,ship,New York
+Azilya,Akaev(a),41230,Moscow,34,Beach holiday,train,Moscow
+Dzhamilya,Sadyrov(a),58461,Potsdam,42,Conference,plane,London
+Erkinbek,Kadyrakhunov(a),47048,Naryn,30,Adventure,train,Dubai
+Osmonkul,Pratov(a),33230,Hamburg,65,Shopping,auto,New York
+Erkinbek,Kadyrakhunov(a),50821,Los Angeles,58,Adventure,ship,New York
+Jusup,Kadyrov(a),44278,Paris,37,Conference,train,Moscow
+Dzhamilya,Kadyrakhunov(a),31588,Bayern,59,Beach holiday,auto,Moscow
+Erkinbek,Pratov(a),41916,Paris,35,Adventure,plane,Moscow
+Erkinbek,Pratov(a),39425,Bishkek,45,Skiing,auto,Moscow
+Ernaz,Dzhumashev(a),63663,Moscow,61,Shopping,auto,Dubai
+Jusup,Erkinbekov(a),43790,Milan,58,Beach holiday,auto,London
+Rayana,Kadyrakhunov(a),34840,Napoli,46,Competition,ship,Paris
+Gulmira,Pratov(a),58146,Moscow,51,Shopping,plane,New York
+Aktan,Sadyrov(a),35826,Saint-Peterburg,38,Shopping,ship,Dubai
+Gulmira,Kadyrakhunov(a),50212,Moscow,65,Conference,auto,Moscow
+Dzhamilya,Pratov(a),45186,Napoli,40,Conference,train,Moscow
+Erkinbek,Saparov(a),64393,Bayern,42,Skiing,auto,New York
+Rayana,Kadyrov(a),59378,Paris,40,Beach holiday,train,Dubai
+Kirill,Dzhakshylykov(a),59237,Naryn,37,Adventure,ship,Moscow
+Dzhumagul,Sadyrov(a),62528,Hamburg,57,Beach holiday,plane,New York
+Karina,Abdyrakmanov(a),44954,London,65,Adventure,train,London
+Dzhamilya,Stamov(a),67066,Napoli,33,Adventure,auto,New York
+Meder,Abdyrakmanov(a),33776,Moscow,57,Conference,train,Dubai
+Altynai,Tashiev(a),40654,Moscow,37,Skiing,plane,Paris
+Askat,Kadyrov(a),31619,Moscow,35,Conference,auto,Paris
+Ernaz,Sadyrov(a),32631,New York,49,Beach holiday,ship,Moscow
+Dzhumagul,Maratov(a),57197,Naryn,63,Shopping,plane,Moscow
+Azilya,Erkinbekov(a),56414,Naryn,50,Skiing,auto,Paris
+Dzhamilya,Kadyrakhunov(a),47367,Rome,33,Shopping,plane,Dubai
+Altai,Pratov(a),62940,Hamburg,64,Conference,ship,Paris
+Diana,Abdyrakmanov(a),67580,New York,46,Beach holiday,auto,Paris
+Temirlan,Akaev(a),45162,Paris,49,Cultural,ship,Dubai
+Timur,Erkinbekov(a),55447,Naryn,43,Cultural,ship,London
+Jusup,Kadyrov(a),32549,Paris,56,Adventure,plane,Moscow
+Rayana,Bakytov(a),43329,Saint-Peterburg,65,Conference,plane,Moscow
+Osmonkul,Akaev(a),36419,Los Angeles,61,Cultural,auto,Paris
+Timur,Dzhakshylykov(a),63470,Berlin,46,Conference,plane,Moscow
+Altai,Pratov(a),36812,Berlin,33,Competition,auto,New York
+Akyl,Adylgaziev(a),32625,Potsdam,38,Competition,auto,New York
+Dzhamilya,Kadyrakhunov(a),46571,Moscow,34,Conference,plane,Moscow
+Akyl,Asankadyrov(a),69343,New York,65,Conference,auto,Moscow
+Askat,Dzhakshylykov(a),47905,Hamburg,65,Beach holiday,auto,Dubai
+Aktan,Maratov(a),32949,Moscow,51,Shopping,auto,London
+Dastan,Dzhumashev(a),55632,Hamburg,56,Beach holiday,plane,London
+Gulmira,Bakytov(a),65943,Los Angeles,55,Shopping,auto,New York
+Temirlan,Pratov(a),51010,Moscow,56,Cultural,plane,Paris
+Jusup,Pratov(a),62924,Moscow,44,Shopping,plane,London
+Nurdin,Stamov(a),46143,Bishkek,46,Conference,plane,New York
+Askat,Abdyrakmanov(a),43516,Naryn,53,Competition,train,Dubai
+Azilya,Akaev(a),65782,Rome,62,Skiing,ship,Dubai
+Altai,Stamov(a),64347,Naryn,34,Adventure,train,Dubai
+Erkinbek,Asankadyrov(a),34338,Bishkek,64,Adventure,auto,New York
+Diana,Stamov(a),54363,Saint-Peterburg,54,Skiing,plane,Dubai
+Altynai,Abdyrakmanov(a),31971,Los Angeles,45,Adventure,train,Paris
+Jusup,Dzhakshylykov(a),56896,Bayern,46,Conference,train,New York
+Aktan,Bakytov(a),45304,Bayern,44,Skiing,train,Moscow
+Temirlan,Abdyrakmanov(a),44738,Berlin,39,Adventure,train,Paris
+Azilya,Sadyrov(a),32921,Berlin,37,Adventure,plane,London
+Ernaz,Adylgaziev(a),60377,Bishkek,59,Shopping,plane,Paris
+Dzhumagul,Abdyrakmanov(a),34636,Miami,34,Shopping,ship,New York
+Dzhamilya,Akaev(a),55726,Rome,54,Skiing,ship,Dubai
+Karina,Akaev(a),55243,Milan,50,Skiing,plane,Dubai
+Azilya,Stamov(a),39337,Napoli,33,Shopping,train,New York
+Bayastan,Sadyrov(a),51187,Milan,31,Shopping,plane,Dubai
+Azilya,Bakytov(a),57161,Paris,51,Shopping,plane,London
+Rayana,Bakytov(a),55018,Saint-Peterburg,37,Beach holiday,ship,London
+Akyl,Kadyrakhunov(a),46736,Los Angeles,59,Conference,plane,Moscow
+Dzhamilya,Tashiev(a),39807,Saint-Peterburg,63,Cultural,plane,London
+Temirlan,Erkinbekov(a),39299,Moscow,54,Adventure,plane,Dubai
+Ernaz,Sadyrov(a),36398,Los Angeles,40,Conference,auto,Dubai
+Dzhumagul,Asankadyrov(a),68519,Paris,57,Beach holiday,train,Dubai
+Ernaz,Dzhumashev(a),38437,Milan,47,Conference,plane,Paris
+Meder,Maratov(a),56566,Bayern,53,Skiing,plane,Dubai
+Akyl,Erkinbekov(a),38931,Potsdam,61,Cultural,train,New York
+Ernaz,Sadyrov(a),67696,Potsdam,35,Beach holiday,auto,New York
+Temirlan,Dzhakshylykov(a),64673,Miami,40,Adventure,plane,Dubai
+Osmonkul,Bakytov(a),61964,Berlin,43,Adventure,train,Dubai
+Timur,Akaev(a),55745,New York,49,Adventure,ship,Dubai
+Gulmira,Bakytov(a),42761,Saint-Peterburg,43,Adventure,auto,New York
+Erkinbek,Erkinbekov(a),63717,Milan,43,Conference,train,Dubai
+Azilya,Maratov(a),45343,Los Angeles,53,Beach holiday,ship,New York
+Gulmira,Adylgaziev(a),64521,Bishkek,31,Adventure,train,New York
+Nazira,Kadyrakhunov(a),30312,Saint-Peterburg,50,Skiing,train,New York
+Osmonkul,Stamov(a),47055,Potsdam,32,Shopping,train,Dubai
+Karina,Sadyrov(a),57725,London,56,Conference,auto,London
+Nuraiym,Dzhakshylykov(a),56975,Hamburg,32,Conference,ship,Moscow
+Meder,Akaev(a),44958,Potsdam,65,Conference,train,Moscow
+Nazira,Sadyrov(a),61557,Rome,47,Conference,auto,London
+Bayastan,Bakytov(a),50930,Los Angeles,61,Conference,plane,Moscow
+Altai,Kadyrov(a),30032,Berlin,46,Shopping,ship,Dubai
+Timur,Saparov(a),69613,Saint-Peterburg,56,Skiing,train,London
+Nurdin,Asankadyrov(a),61603,Moscow,57,Adventure,ship,Paris
+Karina,Maratov(a),56766,Los Angeles,61,Shopping,ship,London
+Dzhamilya,Erkinbekov(a),40241,Berlin,45,Beach holiday,train,New York
+Jusup,Bakytov(a),42791,New York,65,Adventure,auto,Paris
+Altynai,Bakytov(a),47567,London,54,Shopping,plane,Dubai
+Askat,Akaev(a),36736,Paris,39,Beach holiday,ship,New York
+Kirill,Adylgaziev(a),61789,Paris,58,Conference,plane,Dubai
+Dzhamilya,Adylgaziev(a),44498,Bishkek,30,Beach holiday,ship,London
+Azilya,Dzhakshylykov(a),67501,Paris,58,Shopping,plane,Dubai
+Nuraiym,Bakytov(a),51924,Bishkek,59,Shopping,ship,Paris
+Timur,Erkinbekov(a),46936,Paris,57,Skiing,plane,Moscow
+Bayastan,Dzhakshylykov(a),67844,Los Angeles,43,Competition,ship,London
+Jusup,Akaev(a),44639,Milan,36,Conference,plane,Paris
+Osmonkul,Akaev(a),62593,Saint-Peterburg,58,Adventure,train,London
+Altynai,Bakytov(a),39815,Napoli,37,Shopping,plane,Moscow
+Osmonkul,Saparov(a),50570,New York,38,Cultural,train,London
+Aktan,Saparov(a),44340,Miami,41,Skiing,train,Paris
+Azilya,Akaev(a),34582,Miami,58,Conference,train,New York
+Aktan,Bakytov(a),36380,Saint-Peterburg,44,Conference,plane,London
+Temirlan,Sadyrov(a),64129,Miami,63,Beach holiday,ship,Paris
+Dzhazgul,Sadyrov(a),65326,Saint-Peterburg,49,Shopping,plane,Moscow
+Nazira,Pratov(a),30521,Bishkek,61,Shopping,plane,Paris
+Aktan,Saparov(a),61062,Miami,55,Conference,auto,New York
+Altynai,Pratov(a),56407,Rome,39,Shopping,plane,London
+Karina,Kadyrakhunov(a),35680,Saint-Peterburg,35,Shopping,plane,London
+Nazira,Maratov(a),65258,Milan,60,Adventure,train,London
+Nurdin,Pratov(a),34444,Miami,61,Adventure,plane,London
+Altai,Akaev(a),37199,Potsdam,43,Competition,ship,London
+Dzhumagul,Kadyrov(a),53724,Hamburg,40,Beach holiday,ship,Dubai
+Diana,Pratov(a),38033,Hamburg,50,Conference,ship,Paris
+Osmonkul,Abdyrakmanov(a),45533,Paris,58,Cultural,ship,Paris
+Temirlan,Pratov(a),34250,Rome,49,Conference,ship,London
+Jusup,Asankadyrov(a),53968,New York,57,Shopping,ship,New York
+Nurdin,Erkinbekov(a),54391,Hamburg,31,Competition,ship,Dubai
+Nurdin,Tashiev(a),67774,Berlin,64,Cultural,plane,New York
+Erkinbek,Asankadyrov(a),34722,Napoli,40,Competition,auto,Moscow
+Gulmira,Saparov(a),65611,Moscow,61,Beach holiday,train,Dubai
+Temirlan,Kadyrov(a),47316,Bayern,39,Skiing,train,Paris
+Akyl,Maratov(a),61530,Miami,44,Conference,auto,Dubai
+Azilya,Akaev(a),47872,Berlin,59,Competition,train,Dubai
+Osmonkul,Pratov(a),31443,Miami,48,Adventure,auto,Dubai
+Osmonkul,Sadyrov(a),69298,Paris,35,Shopping,train,New York
+Gulmira,Stamov(a),54186,Miami,41,Skiing,ship,Dubai
+Nuraiym,Dzhakshylykov(a),68514,Paris,42,Cultural,plane,Dubai
+Ernaz,Akaev(a),33193,Saint-Peterburg,63,Beach holiday,plane,London
+Aktan,Stamov(a),68633,London,40,Beach holiday,auto,New York
+Diana,Bakytov(a),64217,Rome,50,Adventure,auto,Moscow
+Meder,Dzhumashev(a),42721,Moscow,52,Adventure,train,Paris
+Bayastan,Stamov(a),60320,Bishkek,33,Competition,ship,London
+Dastan,Bakytov(a),45690,London,49,Adventure,train,New York
+Bayastan,Abdyrakmanov(a),46861,Bayern,58,Skiing,auto,London
+Akyl,Erkinbekov(a),57723,Los Angeles,47,Beach holiday,train,London
+Aktan,Abdyrakmanov(a),38901,Milan,58,Beach holiday,auto,New York
+Dzhumagul,Adylgaziev(a),49628,Hamburg,49,Shopping,auto,Paris
+Dzhazgul,Maratov(a),59175,Moscow,62,Shopping,auto,London
+Altai,Akaev(a),51074,Moscow,56,Conference,auto,Dubai
+Meder,Asankadyrov(a),66635,Paris,63,Conference,plane,Paris
+Nurdin,Sadyrov(a),41255,Berlin,62,Cultural,ship,London
+Dzhumagul,Akaev(a),48248,Potsdam,43,Beach holiday,ship,New York
+Meder,Dzhumashev(a),31227,Moscow,59,Shopping,ship,London
+Nurdin,Dzhakshylykov(a),52489,Bayern,31,Conference,train,London
+Dzhumagul,Pratov(a),58972,Miami,39,Cultural,ship,New York
+Aktan,Sadyrov(a),57692,Bayern,39,Competition,plane,Dubai
+Osmonkul,Kadyrov(a),35240,Rome,64,Beach holiday,train,Moscow
+Nazira,Saparov(a),34011,Bishkek,41,Skiing,auto,Paris
+Diana,Asankadyrov(a),38209,Potsdam,48,Shopping,auto,New York
+Rayana,Bakytov(a),61104,Milan,36,Competition,auto,Dubai
+Rayana,Kadyrakhunov(a),54265,Potsdam,61,Cultural,plane,New York
+Aktan,Bakytov(a),41759,Bishkek,53,Cultural,plane,Paris
+Meder,Adylgaziev(a),41789,Naryn,51,Shopping,auto,London
+Rayana,Tashiev(a),40325,Paris,53,Beach holiday,plane,Moscow
+Jusup,Stamov(a),39418,Miami,39,Beach holiday,ship,New York
